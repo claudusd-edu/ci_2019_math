@@ -19,6 +19,6 @@
   },
   "require-dev": {
     "sensiolabs/security-checker": "^5.0",
-    "phpunit/phpunit": "^6.5"
+    "phpunit/phpunit": "9.5.4"
   }
 }

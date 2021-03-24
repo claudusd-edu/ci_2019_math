@@ -10,7 +10,7 @@ class MultiplyTest extends TestCase
 {
     private $multiply;
 
-    public function setUp()
+    public function setUp(): void
     {
         parent::setUp();
         $this->multiply = new Multiply();
